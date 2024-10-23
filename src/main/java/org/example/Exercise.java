@@ -6,7 +6,10 @@ public class Exercise {
         isEven(10);
         isEven(11);
         System.out.println(isLeapYear(2004));
-        System.out.println(isVowels("Aa"));
+        System.out.println(isVowels("a"));
+        int[] arr = new int[10];
+        assignNumber(arr, 25);
+        print(arr);
     }
 
     /**
@@ -32,5 +35,17 @@ public class Exercise {
     public static boolean isVowels(String input) {
         if (input.length() != 1) throw new IllegalArgumentException("INPUT STRING LENGTH MUST BE EQUALS 1");
         return "ueoaiUEOAI".contains(input);
+    }
+
+    public static void assignNumber(int arr[], int number) {
+        for (int i = 0; i < arr.length; i++) {
+            arr[i] = number;
+        }
+    }
+
+    public static void print(int arr[]) {
+        for (int a : arr) {
+            System.out.println(a);
+        }
     }
 }
