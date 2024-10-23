@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68ddc4c2-0eb9-474a-959b-83a6fe62de67" name="Changes" comment="practice maven and homework session 1" />
+    <list default="true" id="68ddc4c2-0eb9-474a-959b-83a6fe62de67" name="Changes" comment="practice maven and homework session 1">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Exercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Exercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/ExerciseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/ExerciseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/HomeworkTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/HomeworkTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/VowelTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/VowelTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +33,9 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk-20/lib/src.zip!/java.base/java/lang/String.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -46,9 +58,110 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "ruby.rails.projectView.checked": "true",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="TestNG.HyperlinkTest">
+    <configuration name="DropDownTest.ableSelectMultipleOptions" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MavenPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="theInternet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="theInternet" />
+      <option name="MAIN_CLASS_NAME" value="theInternet.DropDownTest" />
+      <option name="METHOD_NAME" value="ableSelectMultipleOptions" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DropDownTest.tc03" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MavenPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="theInternet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="theInternet" />
+      <option name="MAIN_CLASS_NAME" value="theInternet.DropDownTest" />
+      <option name="METHOD_NAME" value="tc03" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HyperlinkTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MavenPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="theInternet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="theInternet" />
+      <option name="MAIN_CLASS_NAME" value="theInternet.HyperlinkTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HyperlinkTest.tc04" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MavenPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="theInternet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="theInternet" />
+      <option name="MAIN_CLASS_NAME" value="theInternet.HyperlinkTest" />
+      <option name="METHOD_NAME" value="tc04" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HyperlinkTest.tcHyperLink" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MavenPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="theInternet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="theInternet" />
+      <option name="MAIN_CLASS_NAME" value="theInternet.HyperlinkTest" />
+      <option name="METHOD_NAME" value="tcHyperLink" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.HyperlinkTest" />
+        <item itemvalue="TestNG.HyperlinkTest.tcHyperLink" />
+        <item itemvalue="TestNG.HyperlinkTest.tc04" />
+        <item itemvalue="TestNG.DropDownTest.ableSelectMultipleOptions" />
+        <item itemvalue="TestNG.DropDownTest.tc03" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -58,7 +171,12 @@
       <option name="presentableId" value="Default" />
       <updated>1726569447657</updated>
       <workItem from="1726569448870" duration="37420000" />
-      <workItem from="1727161621054" duration="294000" />
+      <workItem from="1727161621054" duration="2777000" />
+      <workItem from="1727769725679" duration="1194000" />
+      <workItem from="1728449217114" duration="3848000" />
+      <workItem from="1729068213950" duration="22591000" />
+      <workItem from="1729571502658" duration="1729000" />
+      <workItem from="1729658624839" duration="2195000" />
     </task>
     <task id="LOCAL-00001" summary="practice maven and homework session 1">
       <option name="closed" value="true" />
@@ -100,5 +218,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="practice maven and homework session 1" />
     <option name="LAST_COMMIT_MESSAGE" value="practice maven and homework session 1" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
